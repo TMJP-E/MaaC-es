@@ -1,16 +1,16 @@
 ---
-name: Feature request
-about: Suggest an idea or improvement for the project
+name: Sugerencia de funcionalidad
+about: Sugerir una idea o mejora para el proyecto
 title: ""
-labels: enhancement
+labels: mejora
 assignees: ""
 ---
 
-**Is your feature request related to a problem? Is it related to the contents of the book? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**¿Tu sugerencia de funcionalidad está relacionada con un problema? ¿Está relacionada con el contenido del libro? Por favor, descríbelo.**
+Una descripción clara y concisa de cuál es el problema. Ej. Siempre me frustra cuando [...]
 
-**Describe the solution or ideas you'd like to see implemented**
-A clear and concise description of what you want to happen.
+**Describe la solución o ideas que te gustaría ver implementadas**
+Una descripción clara y concisa de lo que quieres que suceda.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Contexto adicional**
+Agrega cualquier otro contexto o capturas de pantalla sobre la sugerencia de característica aquí.

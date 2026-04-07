@@ -9,16 +9,16 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Mathematics as a Construct",
+    pageTitle: "¿Cómo construir el universo?",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "umami",
       host: "https://cloud.umami.is/script.js",
-      websiteId: "", //Must edit for each repository website.
+      websiteId: "10d4a73c-5b3a-48a1-b68e-54b1c2b6f2cc",
     },
-    locale: "en-US", //Adjust to translation language.
+    locale: "es-ES",
     baseUrl: "tmjp-e.github.io/MaaC",
     ignorePatterns: [
       "private",

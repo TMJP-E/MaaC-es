@@ -1,4 +1,4 @@
-# Default Quartz
+# Quartz por defecto
 
 .DS_Store
 .gitignore
@@ -12,7 +12,8 @@ private/
 .replit
 replit.nix
 
-# MaaC Exclusive
+# Exclusivo de MaaC
+
 *.space
 *.canvas
 *.stfolder

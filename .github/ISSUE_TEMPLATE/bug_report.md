@@ -1,37 +1,37 @@
 ---
-name: Bug report
-about: Something about the project isn't working as expected
+name: Informe de error
+about: Algo en el proyecto no está funcionando como se esperaba
 title: ""
 labels: bug
 assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe el error**
+Una descripción clara y concisa de lo que es el error.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Cómo reproducir**
+Pasos para reproducir el comportamiento:
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Ve a '...'
+2. Haz clic en '....'
+3. Desplázate hacia abajo hasta '....'
+4. Ves el error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportamiento esperado**
+Una descripción clara y concisa de lo que esperabas que sucediera.
 
-**Screenshots and Source**
-If applicable, add screenshots to help explain your problem.
+**Capturas de pantalla y fuentes**
+Si corresponde, añade capturas de pantalla para ayudar a explicar tu problema.
 
-You can help speed up fixing the problem by either
+Puedes ayudar a acelerar la solución del problema ya sea
 
-1. providing a simple reproduction
-2. linking to your Quartz repository where the problem can be observed
+1. proporcionando una reproducción sencilla
+2. vinculando a tu repositorio donde se pueda observar el problema
 
-**Device:**
+**Dispositivo:**
 
-- OS: [e.g. Windows, iOS]
-- Browser [e.g. chrome, safari]
+- Sistema Operativo: [p. ej. Windows, iOS]
+- Navegador [p. ej. Chrome, Safari]
 
-**Additional context**
-Add any other context about the problem here.
+**Contexto adicional**
+Añade cualquier otro contexto sobre el problema aquí.
