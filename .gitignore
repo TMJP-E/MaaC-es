@@ -1,0 +1,19 @@
+# Default Quartz
+
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+
+# MaaC Exclusive
+*.space
+*.canvas
+*.stfolder
+*.kra
